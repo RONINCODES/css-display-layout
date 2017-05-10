@@ -11,10 +11,9 @@ h2 {
   display:block;
   width:100%;
   max-width: 900px;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding: 12px 100px 12px 100px;
   text-align: center;
-  font-size: 40px;
+  font-size: 32px;
   font-family: sans-serif;
 }
 .nav ul li {
